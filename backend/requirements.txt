@@ -1,0 +1,20 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+websockets>=12.0
+sqlalchemy==2.0.35
+numpy>=1.26,<2.0
+pandas>=2.1
+opencv-python>=4.9
+mediapipe==0.10.14
+scikit-learn>=1.4
+torch>=2.2
+pygame>=2.5
+reportlab>=4.0
+python-multipart>=0.0.9
+joblib>=1.3
+Pillow>=10.0
+# optional: phone detection (set DRIVIO_PHONE=1)
+# ultralytics>=8.2
+# dev
+pytest>=8.0
+httpx>=0.27

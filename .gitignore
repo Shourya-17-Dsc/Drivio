@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv*/
+node_modules/
+dist/
+backend/data/*
+!backend/data/.gitkeep
+e2e/test-results/
+e2e/playwright-report/
+.pytest_cache/
+*.db
+*.joblib
+yolov8*.pt
+.tsupgrader/
+.env
+.env.*
+!.env.example
+/Drowsy/
+/Non Drowsy/
+/output/
+/tmp/
